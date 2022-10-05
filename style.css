@@ -37,20 +37,25 @@ body {
     font-family: fantasy;
     color: rgb(252, 249, 248);
 }
-
-.puisi{
+.asd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} 
+.title {
     font-size: 40px;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    /* background-color: antiquewhite; */
+    letter-spacing: 20px;
+    font-family: fantasy;
+    color: rgb(252, 249, 248);
+} 
 
-}
+
 .puisisaya{
-    font-size: 40px;
-    color:black
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
 }
-
 
 
 
